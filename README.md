@@ -1,6 +1,11 @@
 # lily's mev reading list
-List of resources to understand what 'mev' is. This list assumes no knowledge of how traditional finance works but does assume knowledge of how blockchains work.
+This guide is for engineers who do not have a background in finance or economics but want to understand how to build better decentralized tech. 
 
+'MEV', or maximal extractable value, from the view of a blockchain infrastructure or application developer, can be conceptualized as the way which entities are able to extract value from the underlying code structure. This list is heavy on algorithmic and model based trading topics as the behaviors in traditional finance are being copied in decentralized finance. Different from traditional finance, blockchains are not able to regulate entities via law into 'good' behavior and instead must rely on permission and incentive structures to enable the intended users to benefit from a system.
+
+The resources in the list build on each other if consumed in order.
+
+## MEV Reading List
 1. [Flash Boys](https://en.wikipedia.org/wiki/Flash_Boys) by Michael Lewis
    - Good to read if you have zero intuition of why speed of information matters and want a spicy read. Is an odd read because the book better describes what is happening in blockchain trading. It is very wrong about how things work in tradfi (there is no front running in tradfi).
 2. Complex Systems Season 1 Episode 1: [How the Smart Money teaches trading with Ricki Heicklen](https://www.complexsystemspodcast.com/episodes/teaching-trading-ricki-heicklen/)
