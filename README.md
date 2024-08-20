@@ -1,3 +1,7 @@
+
+![Screenshot 2024-08-20 at 3 48 14 PM](https://github.com/user-attachments/assets/e6ca509b-dcc7-475a-b09b-66d5ee10f279)
+
+
 # lily's mev reading list
 This guide is for engineers who do not have a background in finance or economics but want to understand how to build blockchain technology that allows for more parties to be economically empowered.
 
