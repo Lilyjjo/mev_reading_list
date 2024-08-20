@@ -32,6 +32,11 @@ The resources in the list build on each other if consumed in order.
 8. [Automated market maker inventory management with deep reinforcement learning](https://link.springer.com/article/10.1007/s10489-023-04647-9)
    - Will blurb and organize once read 
 
+### Lists of other lists to pull from and organize (mostly crypto specific):
+9. [DeFi Reading List](https://jmcph4.dev/defi-reading-list.html)
+10. [Jump Crypto Reading List](https://github.com/JumpCrypto/crypto-reading-list/blob/main/MEV.md)
+11. [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-)
+
 
 Reach out if you have more resources, twitter: @lobstermindset! Will update as I find more relevant material. 
   
