@@ -14,6 +14,6 @@ List of resources to understand what 'mev' is. This list assumes no knowledge of
 6. [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234) by Philip Daian Et al.
    - Lays out how MEV games are played on blockchains in an explicit manner.
 
-Reach out if you have more resources! Will update as I find more relevant material. 
+Reach out if you have more resources, twitter: @lobstermindset! Will update as I find more relevant material. 
   
    
