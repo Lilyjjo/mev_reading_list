@@ -1,5 +1,5 @@
 # lily's mev reading list
-This guide is for engineers who do not have a background in finance or economics but want to understand how to build better decentralized tech. 
+This guide is for engineers who do not have a background in finance or economics but want to understand how to build better decentralized technology. 
 
 'MEV', or maximal extractable value, from the view of a blockchain infrastructure or application developer, can be conceptualized as the way which entities are able to extract value from the underlying code structure. This list is heavy on algorithmic and model based trading topics as the behaviors in traditional finance are being copied in decentralized finance. Different from traditional finance, blockchains are not able to regulate entities via law into 'good' behavior and instead must rely on permission and incentive structures to enable the intended users to benefit from a system.
 
