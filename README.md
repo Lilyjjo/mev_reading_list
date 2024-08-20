@@ -1,4 +1,4 @@
-# lily's mev_reading_list
+# lily's mev reading list
 List of resources to understand what 'mev' is. This list assumes no knowledge of how traditional finance works but does assume knowledge of how blockchains work.
 
 1. [Flash Boys](https://en.wikipedia.org/wiki/Flash_Boys) by Michael Lewis
