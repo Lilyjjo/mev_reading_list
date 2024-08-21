@@ -28,16 +28,19 @@ The resources in the list build on each other if consumed in order.
 7. [i'M NeW t0 mEv](https://mteam.space/posts/im-new-to-mev/) by [@mteamisloading](https://x.com/mteamisloading)
    - Culture and technical piece on 'how to be a searcher'. Good starting point if you want to investigate searching with sections like 'Bot best practices' and 'Social Norms For Searchers'. If not interested in searching, good to read for sake of understand the searcher mindset. 
 
+## Links to be Organized & Blurbed 
 ### Advanced Traditional Finance Topics I'm still reading:
-7. [Market Maker Inventories and Stock Prices](https://www.cis.upenn.edu/~mkearns/finread/Inventories_and_Prices.pdf)
-   - Will blurb and organize once read 
-8. [Automated market maker inventory management with deep reinforcement learning](https://link.springer.com/article/10.1007/s10489-023-04647-9)
-   - Will blurb and organize once read 
+8. [Market Maker Inventories and Stock Prices](https://www.cis.upenn.edu/~mkearns/finread/Inventories_and_Prices.pdf)
+9. [Automated market maker inventory management with deep reinforcement learning](https://link.springer.com/article/10.1007/s10489-023-04647-9)
+
+### List of Ethereum Specific crypto-mev resources for me to blurb / orgainze 
+10. [Who Wins Ethereum Block Building Auctions and Why?](https://arxiv.org/abs/2407.13931) by [Burak Öz](https://x.com/boez95)
+11. [Illuminating Ethereum's Order Flow Landscape](https://writings.flashbots.net/illuminate-the-order-flow)
 
 ### Lists of other lists to pull from and organize (mostly crypto specific):
-9. [DeFi Reading List](https://jmcph4.dev/defi-reading-list.html)
-10. [Jump Crypto Reading List](https://github.com/JumpCrypto/crypto-reading-list/blob/main/MEV.md)
-11. [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-)
+12. [DeFi Reading List](https://jmcph4.dev/defi-reading-list.html)
+13. [Jump Crypto Reading List](https://github.com/JumpCrypto/crypto-reading-list/blob/main/MEV.md)
+14. [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-)
 
 
 Reach out if you have more resources, twitter: @lobstermindset! Will update as I find more relevant material. 
