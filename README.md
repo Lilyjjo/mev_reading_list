@@ -29,11 +29,11 @@ The resources in the list build on each other if consumed in order.
    - Culture and technical piece on 'how to be a searcher'. Good starting point if you want to investigate searching with sections like 'Bot best practices' and 'Social Norms For Searchers'. If not interested in searching, good to read for sake of understand the searcher mindset. 
 
 ## Links to be Organized & Blurbed 
-### Advanced Traditional Finance Topics I'm still reading:
+### Advanced Traditional Finance Topics I'm still reading (needed to understand how extraction works)
 8. [Market Maker Inventories and Stock Prices](https://www.cis.upenn.edu/~mkearns/finread/Inventories_and_Prices.pdf)
 9. [Automated market maker inventory management with deep reinforcement learning](https://link.springer.com/article/10.1007/s10489-023-04647-9)
 
-### List of Ethereum Specific crypto-mev resources for me to blurb / orgainze 
+### List of Ethereum Specific crypto-mev resources (shows how toxic Ethereum's block building is)
 10. [Who Wins Ethereum Block Building Auctions and Why?](https://arxiv.org/abs/2407.13931) by [Burak Öz](https://x.com/boez95)
 11. [Illuminating Ethereum's Order Flow Landscape](https://writings.flashbots.net/illuminate-the-order-flow)
 
