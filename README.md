@@ -25,7 +25,7 @@ The resources in the list build on each other if consumed in order.
    - Lays out how MEV games are played on blockchains in an explicit manner.
 6. FlashBots MEV-SBC’24 Recording: Max Resnick & Phil Daian [The Incentives of Short Term Censorship Resistance](https://www.youtube.com/watch?v=SBOGdofF4u8).
    - Lays out how blockchain architecture affects how economic powerhouses are able to extract value. Main takeaway is that economic powerhouses (builders/searchers) will try to make money either through latency games, spamming games, or auctions. Blockchain architectures must choose which game they expose. Posits that the four properities needed for a decentralized cryptocurrency include: permissionlessness (ability to join system and express economic value at any time), logical and techincal distribution across many nodes, geographic distribution to minimize colocation profit, and the ability for neutral builders to enter the market without substantial barriers.
-7. [i'M NeW t0 mEv](https://mteam.space/posts/im-new-to-mev/) by [@mteamisloading](@mteamisloading)
+7. [i'M NeW t0 mEv](https://mteam.space/posts/im-new-to-mev/) by [@mteamisloading](https://x.com/mteamisloading)
    - Culture and technical piece on 'how to be a searcher'. Good starting point if you want to investigate searching with sections like 'Bot best practices' and 'Social Norms For Searchers'. If not interested in searching, good to read for sake of understand the searcher mindset. 
 
 ### Advanced Traditional Finance Topics I'm still reading:
