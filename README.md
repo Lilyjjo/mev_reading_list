@@ -36,15 +36,16 @@ These recommendations are meant to be accessible to people who have little expos
 8. [Market Maker Inventories and Stock Prices](https://www.cis.upenn.edu/~mkearns/finread/Inventories_and_Prices.pdf)
 9. [Automated market maker inventory management with deep reinforcement learning](https://link.springer.com/article/10.1007/s10489-023-04647-9)
 10. [High-frequency trading in a limit order book](https://math.nyu.edu/~avellane/HighFrequencyTrading.pdf)
+11. [The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response](https://academic.oup.com/qje/article/130/4/1547/1916146)
 
 ### List of Ethereum Specific crypto-mev resources (shows how toxic Ethereum's block building is)
-11. [Who Wins Ethereum Block Building Auctions and Why?](https://arxiv.org/abs/2407.13931) by [Burak Öz](https://x.com/boez95)
-12. [Illuminating Ethereum's Order Flow Landscape](https://writings.flashbots.net/illuminate-the-order-flow)
+12. [Who Wins Ethereum Block Building Auctions and Why?](https://arxiv.org/abs/2407.13931) by [Burak Öz](https://x.com/boez95)
+13. [Illuminating Ethereum's Order Flow Landscape](https://writings.flashbots.net/illuminate-the-order-flow)
 
 ### Lists of other lists to pull from and organize (mostly crypto specific):
-13. [DeFi Reading List](https://jmcph4.dev/defi-reading-list.html)
-14. [Jump Crypto Reading List](https://github.com/JumpCrypto/crypto-reading-list/blob/main/MEV.md)
-15. [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-)
+14. [DeFi Reading List](https://jmcph4.dev/defi-reading-list.html)
+15. [Jump Crypto Reading List](https://github.com/JumpCrypto/crypto-reading-list/blob/main/MEV.md)
+16. [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-)
 
 
 Reach out if you have more resources, twitter: @lobstermindset! Will update as I find more relevant material. 
