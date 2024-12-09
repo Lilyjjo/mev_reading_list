@@ -21,39 +21,41 @@ These recommendations are meant to be accessible to people who have little expos
 3. Acquired Season 14 Episode 3: [Renaissance Technologies](https://www.acquired.fm/episodes/renaissance-technologies)
    - Complete history of Renaissance Technologies. Goes over the history of model-based trading and why being right 51% of the time will make you billions. Helpful to understand how to build bots (introduced in the Complex Systems episode) and how the statistical games discussed in the the MEV-SBC'24 recording are centralizing. 
 4. [Flash Boys : Not So Fast: An Insider's Perspective on High-Frequency Trading](https://g.co/kgs/8LR9aQj) by Peter Kováč
-   - Response book to Flash Boys, goes over why traditional finance does not suffer from front-running or other MEV games (hint: regulation). Good to read to understand how unregulated blockchain trading is and to understand how market makers operate on a business level. Needed read for the more advance traditional finance recommendations. 
+   - Response book to Flash Boys, goes over why traditional finance does not suffer from front-running or other MEV games (hint: regulation). Good to read to understand how unregulated blockchain trading is and to understand how market makers operate on a business level. Needed read for the more advance traditional finance recommendations.
+5. [Market Wizards : Interviews with Top Traders](https://g.co/kgs/ds9p7Fy) by Jack D. Schwager
+   -  Interviews with successful traders about how they approach trading. Includes tips about: position sizing, where to put trade stops, trend following, and how to deal with emotions.
 
 ### MEV in Crypto 
-5. [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234) by Philip Daian Et al.
+6. [Flash Boys 2.0: Frontrunning, Transaction Reordering, and Consensus Instability in Decentralized Exchanges](https://arxiv.org/abs/1904.05234) by Philip Daian Et al.
    - Lays out how MEV games are played on blockchains in an explicit manner.
-6. Sorella Lab's [Brontes MEV Dashboard](https://sorellalabs.xyz/dashboard)
+7. Sorella Lab's [Brontes MEV Dashboard](https://sorellalabs.xyz/dashboard)
    - Shows real time estimates of how much MEV revenue/profit is being extracted per Ethereum L1 block. Divides MEV activies between CEX-DEX, sandwich, atomic arbitrage, JIT sandwhich, and JIT. More about their methodology can be found in their [docs](https://book.brontes.xyz/mev_inspectors/intro.html). 
-7. [Interview with a Block Builder](https://www.reverie.ooo/podcast-episode/kubi-mensah---gattaca-and-the-mev-supply-chain) (Kubi from Titan)
+8. [Interview with a Block Builder](https://www.reverie.ooo/podcast-episode/kubi-mensah---gattaca-and-the-mev-supply-chain) (Kubi from Titan)
    - Discusses how Ethereum block builders use vanilla mempool flow, searcher bundle flow, private transaction flow, and exclusive transaction flow to build blocks containing the value shown by the Brontes dashboard. 
-8. FlashBots MEV-SBC’24 Recording: Max Resnick & Phil Daian [The Incentives of Short Term Censorship Resistance](https://www.youtube.com/watch?v=SBOGdofF4u8).
+9. FlashBots MEV-SBC’24 Recording: Max Resnick & Phil Daian [The Incentives of Short Term Censorship Resistance](https://www.youtube.com/watch?v=SBOGdofF4u8).
    - Lays out how blockchain architecture affects how economic powerhouses are able to extract value. Main takeaway is that economic powerhouses (builders/searchers) will try to make money either through latency games, spamming games, or auctions. Blockchain architectures must choose which game they expose. Posits that the four properties needed for a decentralized cryptocurrency include: permissionlessness (ability to join system and express economic value at any time), logical and technical distribution across many nodes, geographic distribution to minimize colocation profit, and the ability for neutral builders to enter the market without substantial barriers.
-9. [i'M NeW t0 mEv](https://mteam.space/posts/im-new-to-mev/) by [@mteamisloading](https://x.com/mteamisloading)
+10. [i'M NeW t0 mEv](https://mteam.space/posts/im-new-to-mev/) by [@mteamisloading](https://x.com/mteamisloading)
    - Culture and technical piece on 'how to be a searcher'. Good starting point if you want to investigate searching with sections like 'Bot best practices' and 'Social Norms For Searchers'.
 
 ### Advanced Traditional Finance 
-10. [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marco Lopez de Prado.
+11. [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marco Lopez de Prado.
     - Introduction to financial machine learning. This book was super helpful (for an engineer with no data and/or ML background) to understand the different steps involved in using machine learning for aiding in investing. I'm only 1/2 way through, will finish the blurb once done.
 
 ## Links to be Organized & Blurbbed 
 ### Advanced Traditional Finance Topics I'm still reading (needed to understand how extraction works)
-11. [Market Maker Inventories and Stock Prices](https://www.cis.upenn.edu/~mkearns/finread/Inventories_and_Prices.pdf)
-12. [Automated market maker inventory management with deep reinforcement learning](https://link.springer.com/article/10.1007/s10489-023-04647-9)
-13. [High-frequency trading in a limit order book](https://math.nyu.edu/~avellane/HighFrequencyTrading.pdf)
-14. [The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response](https://academic.oup.com/qje/article/130/4/1547/1916146)
+12. [Market Maker Inventories and Stock Prices](https://www.cis.upenn.edu/~mkearns/finread/Inventories_and_Prices.pdf)
+13. [Automated market maker inventory management with deep reinforcement learning](https://link.springer.com/article/10.1007/s10489-023-04647-9)
+14. [High-frequency trading in a limit order book](https://math.nyu.edu/~avellane/HighFrequencyTrading.pdf)
+15. [The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response](https://academic.oup.com/qje/article/130/4/1547/1916146)
 
 ### List of Ethereum Specific crypto-mev resources (shows how toxic Ethereum's block building is)
-15. [Who Wins Ethereum Block Building Auctions and Why?](https://arxiv.org/abs/2407.13931) by [Burak Öz](https://x.com/boez95)
-16. [Illuminating Ethereum's Order Flow Landscape](https://writings.flashbots.net/illuminate-the-order-flow)
+16. [Who Wins Ethereum Block Building Auctions and Why?](https://arxiv.org/abs/2407.13931) by [Burak Öz](https://x.com/boez95)
+17. [Illuminating Ethereum's Order Flow Landscape](https://writings.flashbots.net/illuminate-the-order-flow)
 
 ### Lists of other lists to pull from and organize (mostly crypto specific):
-17. [DeFi Reading List](https://jmcph4.dev/defi-reading-list.html)
-18. [Jump Crypto Reading List](https://github.com/JumpCrypto/crypto-reading-list/blob/main/MEV.md)
-19. [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-)
+18. [DeFi Reading List](https://jmcph4.dev/defi-reading-list.html)
+19. [Jump Crypto Reading List](https://github.com/JumpCrypto/crypto-reading-list/blob/main/MEV.md)
+20. [MEV Weekend Reading List](https://github.com/peiyuechen/MEV-weekend-reading-list-)
 20. [Comprehensive guide to the Defi Derivative landscape](https://github.com/0xperp/defi-derivatives)
 
 
